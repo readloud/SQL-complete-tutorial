@@ -18,3 +18,5 @@ Restore database: right click database and click "restore"
 `Schema -> tables themselves, not the data in tables (duplicate format)`
 
 `Cleaning -> wiping database of data`
+
+[PostgreSQL-Terminal-Commands-MacOS](https://github.com/readloud/SQL-complete-tutorial/blob/main/SQL-Bootcamp/PostgreSQL-Terminal-Commands-MacOS.pdf)
