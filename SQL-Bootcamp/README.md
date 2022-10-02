@@ -1,6 +1,6 @@
 # SQL Notes and code from [Udemy's](https://www.udemy.com/) SQL Bootcamp Lesson
 
-![](/SQL-Bootcamp/sql cheat sheet.png)
+![image](/sql cheat sheet.png)
 
 Syntax
 ~~~
