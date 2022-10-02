@@ -1,1 +1,3 @@
-<h1>SQL Notes and code from <a href="https://www.udemy.com/">Udemy's</a> SQL Bootcamp Lesson</h1>
+# SQL Notes and code from [Udemy's](https://www.udemy.com/) SQL Bootcamp Lesson
+
+![](sql cheat sheet.png)
